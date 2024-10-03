@@ -1,0 +1,23 @@
+{
+  "name": "vue23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.1",
+    "@vitejs/plugin-vue2": "^2.3",
+    "element-plus": "^2.8.4",
+    "element-ui": "^2.15.14",
+    "vite": "^5.4.8",
+    "vue": "npm:vue@^3.5",
+    "vue-router": "^4.4.5",
+    "vue2": "npm:vue@^2.7"
+  }
+}
